@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battle_Tank_3D", "Battle_Tank_3D\Battle_Tank_3D.vcxproj", "{31C49815-84EE-4388-9807-37024284FB37}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_Project_component", "Test_Project_component\Test_Project_component.vcxproj", "{6F81C129-D0BF-48C7-B387-3F42A6DBC406}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DemoProject", "DemoProject\DemoProject.vcxproj", "{10E16E25-60BF-46A1-AC97-FEDC0478D62F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGL", "..\testGL\testGL\testGL.vcxproj", "{3B055517-0EEE-43D2-8CA7-490DE86D70C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C49815-84EE-4388-9807-37024284FB37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31C49815-84EE-4388-9807-37024284FB37}.Debug|Win32.Build.0 = Debug|Win32
+		{31C49815-84EE-4388-9807-37024284FB37}.Release|Win32.ActiveCfg = Release|Win32
+		{31C49815-84EE-4388-9807-37024284FB37}.Release|Win32.Build.0 = Release|Win32
+		{6F81C129-D0BF-48C7-B387-3F42A6DBC406}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F81C129-D0BF-48C7-B387-3F42A6DBC406}.Debug|Win32.Build.0 = Debug|Win32
+		{6F81C129-D0BF-48C7-B387-3F42A6DBC406}.Release|Win32.ActiveCfg = Release|Win32
+		{6F81C129-D0BF-48C7-B387-3F42A6DBC406}.Release|Win32.Build.0 = Release|Win32
+		{10E16E25-60BF-46A1-AC97-FEDC0478D62F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10E16E25-60BF-46A1-AC97-FEDC0478D62F}.Debug|Win32.Build.0 = Debug|Win32
+		{10E16E25-60BF-46A1-AC97-FEDC0478D62F}.Release|Win32.ActiveCfg = Release|Win32
+		{10E16E25-60BF-46A1-AC97-FEDC0478D62F}.Release|Win32.Build.0 = Release|Win32
+		{3B055517-0EEE-43D2-8CA7-490DE86D70C8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B055517-0EEE-43D2-8CA7-490DE86D70C8}.Debug|Win32.Build.0 = Debug|Win32
+		{3B055517-0EEE-43D2-8CA7-490DE86D70C8}.Release|Win32.ActiveCfg = Release|Win32
+		{3B055517-0EEE-43D2-8CA7-490DE86D70C8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
